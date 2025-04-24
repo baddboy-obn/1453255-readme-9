@@ -10,28 +10,22 @@
       "path": "./apps/post"
     },
     {
-      "path": "./apps/comment-e2e"
-    },
-    {
       "path": "./apps/comment"
-    },
-    {
-      "path": "./apps/like-e2e"
     },
     {
       "path": "./apps/like"
     },
     {
-      "path": "./apps/search-e2e"
-    },
-    {
       "path": "./apps/search"
     },
     {
-      "path": "./apps/notification-e2e"
+      "path": "./apps/notification"
     },
     {
-      "path": "./apps/notification"
+      "path": "./libs/shared/core"
+    },
+    {
+      "path": "./libs/shared/helpers"
     }
   ]
 }
