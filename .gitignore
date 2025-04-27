@@ -11,3 +11,7 @@ coverage
 *.log
 /project/node_modules/
 /project/.nx/
+
+.nx/installation
+.nx/cache
+.nx/workspace-data
